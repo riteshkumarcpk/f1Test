@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+logo1 {
+    width: Fixed (1, 439.98px);
+    height: Hug (77px);
+    padding: 15px 108px 15px 108px;
+    justify: space-between;
+    color: #FFFFFF;
+}
+
+.Announcement {
+
+padding: 10px;
+    box-shadow: 0px 2px 40px 0px #0000001F;
+    rgba:(0, 0, 0, 0.12);
+}
+
+.hero {
+    width: 1440px;
+    height: 783px;
+    color: #FFFFFF;
+}
+
+.Student {
+    display: flex;
+    padding-left: 100px;
+    text-align: justify;
+}
+
+.Course {
+
+    padding: 80px 0px 78px 0px;
+
+    padding-left: 221px;
+    background-color: #ecf8ff;
+}
+
+.Companies {
+    width: 1440px;
+    height: 794px;
+
+}
+
+.feedback {
+    width: 1440px;
+    height: 972px;
+    padding: 96px 107px 138px 107px;
+
+}
